@@ -1,7 +1,8 @@
 class Dog
+@fido
+@rover
+@lassie
 
 end
 
-fido = Dog.new
-snoopy = Dog.new
-lassie - Dog.new
+
